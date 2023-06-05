@@ -1,6 +1,10 @@
 /* Doodle CSS
  * https://github.com/chr15m/DoodleCSS
  */
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+body {
+  font-family: 'Short Stack', cursive;
+}
 
 .doodle * {
   box-sizing: border-box;
